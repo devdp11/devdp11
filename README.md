@@ -77,7 +77,7 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
 <h2 align="center"> 📞 CONTACTS </h2>
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/diogo-pinheiro-7643812b0/" target="_blank" style="margin-right: 20px;">
+  <a href="https://www.linkedin.com/in/diogo-pinheiro-dev/" target="_blank" style="margin-right: 20px;">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pinheirodiogo2003@gmail.com" target="_blank">
