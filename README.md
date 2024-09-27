@@ -2,7 +2,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Diogo+Pinheiro!;" />
 </h1>
 
-<p align="left"> I'm 20 years old and I'm fascinated by coding and computer softwares. I've just finished my degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo. Throughout my studies, I've acquired a wealth of knowledge and developed strong skills in the area. I consider myself to be an adaptable, communicative and flexible person. I feel comfortable working in a team and am always looking for new opportunities to grow. My immediate goal is to conclude the degree, further deepening my knowledge in Computer Engineering. I'm looking forward to applying my knowledge and skills in a professional environment soon, so i can improve it for the future. </p>
+<p align="left"> I'm 20 years old and I'm fascinated by coding and computer softwares. I've just finished my degree in Computer Engineering at the Polytechnic Institute of Viana do Castelo. Throughout my studies, I've acquired a wealth of knowledge and developed strong skills in the area. 
+    
+I consider myself to be an adaptable, communicative and flexible person. I feel comfortable working in a team and am always looking for new opportunities to grow. My immediate goal is to conclude the degree, further deepening my knowledge in Computer Engineering. 
+
+I'm looking forward to applying my knowledge and skills in a professional environment soon, so i can improve it for the future. </p>
 
 <br>
 
