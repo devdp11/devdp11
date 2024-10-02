@@ -10,7 +10,9 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
 
 <br>
 
-<h2 align="center">📊 SKILLS </h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=📊SKILLS;" />
+</h2>
 
 <table align="center" width="100%">
   <tr>
@@ -51,7 +53,9 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
   </tr>
 </table>
 
-<h2 align="center"> 🔢 STATS </h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=🔢STATS;" /> 
+</h2>
 
 <div align="center">
   <table>
@@ -74,7 +78,9 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
   </table>
 </div>
 
-<h2 align="center"> 📞 CONTACTS </h2>
+<h2 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=📞CONTACTS;" />  
+</h2>
 
 <div align="center">
   <a href="https://www.linkedin.com/in/diogo-pinheiro-dev/" target="_blank" style="margin-right: 20px;">
