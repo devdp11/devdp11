@@ -20,8 +20,6 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
     <p align="center">
       <img width="50px" src="https://skillicons.dev/icons?i=py" />
       <img width="50px" src="https://skillicons.dev/icons?i=flask" />
-      <img width="50px" src="https://skillicons.dev/icons?i=cs" />
-      <img width="50px" src="https://skillicons.dev/icons?i=dotnet" />
       <img width="50px" src="https://skillicons.dev/icons?i=ts" />
       <img width="50px" src="https://skillicons.dev/icons?i=js" />
       <img width="50px" src="https://skillicons.dev/icons?i=java" />
