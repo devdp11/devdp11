@@ -65,13 +65,6 @@ I'm looking forward to applying my knowledge and skills in a professional enviro
           </a>
         </p>
       </td>
-      <td>
-        <p align="center">
-          <a href="https://github.com/devdp11">
-            <img width=390 src="https://streak-stats.demolab.com/?user=devdp11&count_private=true&theme=react&border_radius=10" alt="Streak Stats"/>
-          </a>
-        </p>
-      </td>
     </tr>
   </table>
 </div>
